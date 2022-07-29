@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;   
+}
+
+.header {
+    width: 1110px;
+    margin: 50px auto;
+          
+}
+.nav-logo {
+    display: flex;
+    justify-content: center;    
+}
+.nav-list {
+    list-style: none;
+    display: flex;
+    margin: 79px 30px 0; 
+    justify-content: center;
+}
+.nav-link {
+    color: #8C8A8A;
+    margin: 0 30px;
+    font-size: 18px;
+    font-family: arial;
+    font-weight: 400; 
+    line-height: 21px   
+}
+.img {
+    margin: 30px auto 0;
+}
+.main-box {
+    width: 1110px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.text-right {
+    width: 730px;
+    height: 500px;
+    background: #F0F0F0;
+}
+.text-left {
+    width: 350px;
+    height: 500px;
+    background: #F0F0F0;
+}
+.title-right {
+    color: #4581B7;
+    line-height: 23px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: arial;
+    margin: 50px 0 0 40px;
+}
+.text-one {
+    color: #808080;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: arial;
+    margin: 25px 95px 51px 40px;
+}
+.title-left {
+    color: #4581B7;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    font-family: arial;
+    margin: 50px 0 0 40px;
+}
+.text-two {
+    color: #808080;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: arial;
+    margin: 25px 24px 0 40px;
+}
+.tphone {
+    color: #808080;
+    display: block;
+    margin: 39px 24px 0 40px;
+}
+.mail-box {
+    color: #808080;
+    margin: 67px 24px 0 40px;
+    display: block;
+}
+.foot-box {
+    width: 1110px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    background: #F0F0F0;
+    margin: 0 auto;
+    align-items: center;    
+}
+.img-footer {
+    display: block;
+    margin: 15px 0 15px 40px;
+}
+.info-box {
+    margin: 46px 45px 46px 0;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.foot-text {
+    color: #808080;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: arial;
+}
+.number {
+    color: #808080;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    font-family: arial;
+    margin: 10px 0 0 0;
+}
